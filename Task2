@@ -1,0 +1,4 @@
+r = float(input('Уведіть радіус кола: '))
+import math
+
+print(format(math.pi * r ** 2, '.2f'))
