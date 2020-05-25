@@ -1,0 +1,3 @@
+copii_tovara = int(input())
+cena_tovara = float(input())
+print(copii_tovara * cena_tovara)
